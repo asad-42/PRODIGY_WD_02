@@ -26,8 +26,8 @@ A beautiful **Stopwatch web Application** built with **HTML, CSS, and JavaScript
    ```bash
    git clone https://github.com/asad-42/PRODIGY_WD_02.git
    cd PRODIGY_WD_02
-## -- OR --
-2. To run it on VS Code
+## -- *OR* --
+2. To run it on **VS Code**
 - Create a Project folder on your device, followed by make three program files like below --
 - STOP_WATCH/
      index.html
