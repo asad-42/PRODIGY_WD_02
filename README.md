@@ -24,5 +24,5 @@ A beautiful **mechanical-dial stopwatch** built with **HTML, CSS, and JavaScript
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<your-username>/<repo-name>.git
-   cd <repo-name>
+   git clone https://github.com/asad-42/PRODIGY_WD_02.git
+   cd PRODIGY_WD_02
