@@ -1,6 +1,6 @@
-# ⏱️ Mechanical Dial Stopwatch
+# ⏱️ Stopwatch web Application
 
-A beautiful **mechanical-dial stopwatch** built with **HTML, CSS, and JavaScript**.  
+A beautiful **Stopwatch web Application** built with **HTML, CSS, and JavaScript**.  
 
 
 ## ✨ Features
