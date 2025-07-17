@@ -29,7 +29,7 @@ A beautiful **Stopwatch web Application** built with **HTML, CSS, and JavaScript
 ## -- *OR* --
 2. To run it on **VS Code**
 - Create a Project folder on your device, followed by make three program files like below --
-- STOP_WATCH/
-     index.html
-     style.css
-     script.js
+📂STOP_WATCH/
+📄index.html
+📄style.css
+📄script.js
