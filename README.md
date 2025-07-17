@@ -6,11 +6,10 @@ A beautiful **Stopwatch web Application** built with **HTML, CSS, and JavaScript
 ## ✨ Features
 
 ✅ **Smooth hour, minute, and second hands**
-✅ **Accurate digital display** with hundredths (00–99)  
-✅ **Start / Pause / Reset / Lap** functionality  
-✅ **Continuous second hand rotation** (no jump back)  
-✅ **Responsive UI** – works on desktop and mobile  
-✅ Can be wrapped into an **Android APK** to share with friends
+✅ **Accurate digital display** with hundredths (00–99)
+✅ **Start / Pause / Reset / Lap** functionality
+✅ **Continuous second hand rotation** (no jump back)
+✅ **Responsive UI** – works on desktop and mobile
 
 
 ## 🛠️ Tech Stack
